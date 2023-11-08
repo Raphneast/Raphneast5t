@@ -1,0 +1,26 @@
+{
+  "name": "Bruce Perkins",
+  "age": 27,
+  "address": {
+    "street": "Lodis Plaza",
+    "city": "Apewebcu",
+    "state": "CT",
+    "zip": "79680"
+  },
+  "contact": {
+    "phone": "(922) 574-8076",
+    "servicePhone": "800885744"
+  },
+  "birthday": "1995-09-04T22:41:50.168Z",
+  "ip": "248.139.113.118",
+  "foo": "bar",
+  "profile": {
+    "about": "Kiuco cafbarega ow hagpavad neh urisa awzur evairba miv wemke rijimo altiiju pejela ecekiffoc ava va silud. Cemvodcu nes ko zor dojda op ho ukzeded ipluhlo nif cotra nuc lutuvcuj. Silmenha toacuju aba farrurpon sifalvi ej sipjuwi vafzodize ruw sadiw zuw avkojuz neifohi hi baj osumiljo ar. Pafpet licko ze bo vetaj oku cojakhej gizbeol fut akuguhef lo ambe wosvele gop munefwuv. No tinzal rala isiba eweju zic aru gokapdor zi rahufnuv cin um roha ovaki cahle lu. Satibake be laziza ej soh tiehfu fakabo wajowu na ji hoj ze leta rezis.",
+    "bio": "Si nalna aw bav zuszo kaer hopwidga uzonefrep kaiti dev germibis vikzuf cib ijkuwaz. Sos roz merkujur dev rugub ruzzanoho zomdurosa koj fa ordaloh nuc jelotama to cow jorkium. Kolgu coivu bi logti kitkitoma ipa eziroru keofe gamu odi zeedi ibibiasa ziksumro nik ve jowju. Miumdaw afanejwet widvorjit vifav as kako fe iraofut hiwepji nu oriubof tenneehi woaduug tunri gidalzet umfeg."
+  },
+  "apiKey": "41436ca6ece6c4119d5800b5babb70f3b92278fbe9fe5a507ac7ca6435ce6a61",
+  "currency": {
+    "code": "ISK",
+    "name": "Iceland Krona"
+  }
+}
