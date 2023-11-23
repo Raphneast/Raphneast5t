@@ -1,0 +1,26 @@
+{
+  "name": "Alma Barber",
+  "age": 50,
+  "address": {
+    "street": "Rezup Boulevard",
+    "city": "Rafudmok",
+    "state": "OK",
+    "zip": "65020"
+  },
+  "contact": {
+    "phone": "(607) 948-7780",
+    "servicePhone": "800315268"
+  },
+  "birthday": "1984-04-05T17:36:00.298Z",
+  "ip": "194.9.93.230",
+  "foo": "bar",
+  "profile": {
+    "about": "Dumij recmoso lob ikojaz vabo zif covora necomdo puwrul okfiso locu keknu ulagi. Hivo mu ega jig siblu ma lit wep dop kawi bop sij kaja kuhdorir. Cevuw tihih ut corpen su nuslabzam ceartab ivi catomug ovzojov ge wo.",
+    "bio": "Mi pahcatun ri togi taw sirukho ri vibihli secmoneha dupej jincopuw itigarwi kuhiwiveh. Ewmo rusabof vugjohwi saceka nedak du fulwez ebzied ozikuge ja metgi gevofeco uhigiwih. Doabe mu ce tigew bafof wahu ka wadbor upfapi hor be vuhusasu fitwesob ducwog lajvota. Gabru pe uz zi ep mar wo ze tadzodta ijuwagi rojcuge job rumigno."
+  },
+  "apiKey": "060acc66a3c1be88f17297406797a9949772f13a7ecdb329f94c72522473f784",
+  "currency": {
+    "code": "PYG",
+    "name": "Paraguay Guarani"
+  }
+}
