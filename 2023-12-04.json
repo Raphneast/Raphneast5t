@@ -1,0 +1,26 @@
+{
+  "name": "Sarah Hardy",
+  "age": 50,
+  "address": {
+    "street": "Wokido Junction",
+    "city": "Nusure",
+    "state": "MN",
+    "zip": "68336"
+  },
+  "contact": {
+    "phone": "(761) 276-1425",
+    "servicePhone": "800624769"
+  },
+  "birthday": "1966-09-25T10:58:16.010Z",
+  "ip": "242.180.65.89",
+  "foo": "bar",
+  "profile": {
+    "about": "Moddu zo ficot uhi titi wec hala sisjedad wicvujaj mazisem ehabu joh wazlaj eses lefsu. Non hev zu nam porog ugicele uhpokze tisima ri wozik vevdo viri. Sigsit wopafe sid dowe nu kafak abimuk rese hiro pad zegco fo lienimu.",
+    "bio": "Koonuzal anu ihi he wiep fe nufsos ge lit isesa zitaov toz zakocop onujato va kus. Recelma it jop ido pusivpo jem so do donva il vu amois rodcarsa. Muara eviepa culunu zarzu juwulu er nikadiuhu lukcew fabeohe cu lofwan pucij hatbibni ji es va. Cajo imiwag afusi mes lur fudujdo viakuga jukaf cauroho fum ruvuove zesofef fo dorozod ud evadaol fesjupi hoz. Tihiceg alunajuf uvo makuhit gafgucbec te riv imu zu ihivurpif ratemovos pokuk wa. Oskip koz cufagod ukkolo gisilac soc honwopfim lahesjuc saw oh kel imo sowip bagnafci igo lilmuj cazagi. Mici fezi pup od ko viz fit pabasih va ej ci kolsu miuviihe nu howkegaw topa heabe ken."
+  },
+  "apiKey": "40575d868ef78889fb37de0343f86d38db2eccb3ca84b3bdb88dddcc16fc72bf",
+  "currency": {
+    "code": "EGP",
+    "name": "Egypt Pound"
+  }
+}
