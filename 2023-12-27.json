@@ -1,0 +1,26 @@
+{
+  "name": "Luke Lamb",
+  "age": 36,
+  "address": {
+    "street": "Musju Plaza",
+    "city": "Norcebmet",
+    "state": "SC",
+    "zip": "11563"
+  },
+  "contact": {
+    "phone": "(671) 396-8911",
+    "servicePhone": "800447914"
+  },
+  "birthday": "1974-05-20T10:35:18.467Z",
+  "ip": "124.181.173.168",
+  "foo": "bar",
+  "profile": {
+    "about": "Ursasje pejig av mak kumadda wi najra ag nopiv sibak de amte. Zuuju conso fagane kak paunu sokap os gidik pi seho rak pukzubfe ahida. Idiju nagipkap upomoose docuzju puf obsof ezrih gi sazhejzej koj zidvo zuwso beb wo. Sidca pavgug so cenze huluncer naw akpo biwug gu buh zakap jizrij kalmic cihoso murzaseni. Vi derij kilkuc lo az ri ke kolo rofun pepak jiulaju le usnoas.",
+    "bio": "Kivnez ucutadec jog zuc mut gastu jadehmah gapeh uv go ecotap fe danvi. Tak catbuc bahmilfiv belsi fikek lattib mace pirvefuji rav juv fompufan olmu vir. Zo pocetlav cu ittem oduzosil temi umnurad obcimzov ib co feh zitsuf peagu edu ra. Tioh epehes korfetdu ze ovoafi fizu diwhi alokidju runaar jofud napezko feriduwi lomtokab. Ovo holoji kat ku vug odkutcet itu simu nuhoh suret juslaat ru fuzcop feit. Lazan honejuk zebinti zop cijoj burgapa icetico hazarih ujgac nafsem ewaunlid upjor enzisik ci sifmikmiv bavetcev. Ud newvirnaf hafipe fujroh aviegi ejo lezuvli gitezbet voza jepo nacmelu tiwdekem simim ju oc hih lakpa."
+  },
+  "apiKey": "9071ca04aae4ef19efb9857d52a1566b5da848ad947291dc3944fdef7ffd85c6",
+  "currency": {
+    "code": "BYR",
+    "name": "Belarus Ruble"
+  }
+}
