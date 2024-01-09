@@ -1,0 +1,26 @@
+{
+  "name": "Seth Roberts",
+  "age": 24,
+  "address": {
+    "street": "Wune Point",
+    "city": "Jujugem",
+    "state": "OK",
+    "zip": "94073"
+  },
+  "contact": {
+    "phone": "(625) 465-9261",
+    "servicePhone": "800324946"
+  },
+  "birthday": "1981-05-31T06:34:45.757Z",
+  "ip": "161.241.133.103",
+  "foo": "bar",
+  "profile": {
+    "about": "Finose ji nozinne vivajot nu fufreghen jahcik gat ero tiemsa telofe vo cipka. Gov nen el vamelwud jorzet duwawsi miofuan vuzu de ujturi kamodze bohkutiw lieti. Ogeza dahfused uveavpe sor mod boehe covwi mevuf jezdalit seg nipva cajupbe unapha hod hupuzop dikvut.",
+    "bio": "Idu if gufpizi akva uv nuspop joka ru ep ha suskutjeb rohdam sub garlog fol wisi bodup pusjok. Tojufmi umejudu gimwu fa nosacabi zol pik cowduntan maajuzi de kija jo pi ibiuzisej saliuzu. Lo veze feknov huki na pomtike raz kak icudegmof zep opedimic saubso hargoz emaki had."
+  },
+  "apiKey": "12a7bf74beeb7f0b57efb6eb1bea8e3b57daffdf1f50a03d717b4f8a8b2b9c1c",
+  "currency": {
+    "code": "CVE",
+    "name": "Cape Verde Escudo"
+  }
+}
