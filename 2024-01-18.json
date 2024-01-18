@@ -1,0 +1,26 @@
+{
+  "name": "Stella Holmes",
+  "age": 18,
+  "address": {
+    "street": "Curhu Way",
+    "city": "Itagolip",
+    "state": "CT",
+    "zip": "02315"
+  },
+  "contact": {
+    "phone": "(550) 550-5562",
+    "servicePhone": "800671231"
+  },
+  "birthday": "1988-12-21T06:20:14.990Z",
+  "ip": "23.152.82.22",
+  "foo": "bar",
+  "profile": {
+    "about": "Rorpaso afhoef etuduwe fafifilos muc zipo zugu mah baras hecut larwiib cud sakelum kobaw ovuji. Zah ha wev vikte ezesiki tasja wisso uzeeg uc kud vo na jidam girpelow. Fegov zuwulu ra ike jololgib gohujed oz muwuhud janpujmep fewo wowkisa otekeme. Hin ma ub jud um ikjuw habfudgi varega dupapze suam zewi damov gutfabrer pih kopet al lobira zekabiz. Cabov diptu gafa dawetnew lan pug ti pinnos se lanlo del hoazog navocseh jujbin ulufomi. Ujemepcup wed toeze kacko lu dekbajgup adrupe cacpec paduj al wakuja dak. Pamipo hoar uhruf ef restilin luecwo kapnul hutpoma wapugu runnuf mibradvew haudi vetebo vatueli vas wisegeg fa.",
+    "bio": "Evomoj ze in kop inuji mucezu laoclap nedsamrik iw ahiatbez pi mamlacreb biluwbeh. Muw cuvi ko sewolji tah da fadjef zogtanebo oc kongehib dum wihoz ig fitof vatuojo. Va deno jiw jogaagi hekegis topalu nabevze eviffih odse ilari hihlocnu ni ejzafbi nub. Rujuvet ropas ja pu neggoro wufsiwlin itutooti bovlebmi retleb difseh tazum vod dutjevza suzcoc ohu jar."
+  },
+  "apiKey": "fafcebc83cc49f627aa655d656f083bf545a2c78cd74e9b55e37826211c1ce2b",
+  "currency": {
+    "code": "GHS",
+    "name": "Ghana Cedi"
+  }
+}
