@@ -1,0 +1,26 @@
+{
+  "name": "Miguel Williamson",
+  "age": 65,
+  "address": {
+    "street": "Cener Extension",
+    "city": "Izeaffid",
+    "state": "PA",
+    "zip": "00479"
+  },
+  "contact": {
+    "phone": "(883) 485-5103",
+    "servicePhone": "800895923"
+  },
+  "birthday": "1965-07-29T10:04:12.891Z",
+  "ip": "107.174.106.188",
+  "foo": "bar",
+  "profile": {
+    "about": "Kigu ufego zopeh mog cemaz week bob vuzem kafcoljo ev bijcahe buvadli baihivi. Sasuc ezje ho za miodkom leika me meul nerumi mahaci lukucwen numul. Je bi em emusi kuuba gata muber risazi we rejototuv hohguf azned nes. Naluj unu hewtowu eco ekdij wih ewojejud faov wolop tiwhef hoka tebatwi. Uma rawurdi nig jarow puwpup vu hibeliwe wahehra monvu reavu job wa za. Ekodo aditaka arcehtiv ba ojpota iso epzo kupiwgo ari go sekid atdemib lehaew cod vuc ha pedijgob. Ripekor izo kobabin gom upobi dum iwivno kolhes tulano kotep lofkor ufoud.",
+    "bio": "Raghop canko az le is tor fid sut zomjami oculi foke vucpot nozi eve ivuril oni. Saub posi wehulsu okbur veto vaadeja nic getaz bo lu ve agala buen fah ce we. Ginag done kit emavi dik evenorra alto iki te guk zow ta er kasedi cuhri zi lalwarel."
+  },
+  "apiKey": "c66ceb5b4c46c7be47bcd821b9571cde972869ab5939c6b37c90d0231c0aa829",
+  "currency": {
+    "code": "PEN",
+    "name": "Peru Nuevo Sol"
+  }
+}
