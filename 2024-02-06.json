@@ -1,0 +1,26 @@
+{
+  "name": "Bernice Weber",
+  "age": 64,
+  "address": {
+    "street": "Ridur Drive",
+    "city": "Bitodifo",
+    "state": "NH",
+    "zip": "18494"
+  },
+  "contact": {
+    "phone": "(369) 812-8633",
+    "servicePhone": "800984498"
+  },
+  "birthday": "1959-10-30T15:12:17.720Z",
+  "ip": "254.102.167.25",
+  "foo": "bar",
+  "profile": {
+    "about": "Noderef bajkeg molnufof mev ebetursiw te zore fawdataj duvhoref jadgecfu mew no. Lu ebehibba lupu diuti tehwo bavvegi keroj oditaweg ituvafur tifij ibvuj wu febto zajzebe vevrauz ivocur tif ica. Zoiz jatap avu rev fud nu ca agedulre josudime zuregfi lura bom betuc nidapre nev okneh. Panti pefu hofuthov lu jawcegir di mi dapesog ada ocfepom uz ev desi cawpot fi ledki. Weage bonir ezvaswoh makezog ve dosu hozgaz hib moworidi en akeule legoho vuzsote dozme huzejta besevu noppawa.",
+    "bio": "Rucba tor fodcipij femim eje ma fek busajarik asem kefalwov bicap uc jub rohejsog bo wam bukasu ci. Wippo urecopo vobhup picwa oritod hocalol rev sodso nifippa kokhoz akkoas kivuvama bulfoz wobaci do. Rosjahgi ga ombu eba ilirukiz cidozcuk ciha gimu towowe mun labit walab mawuda. Fuwesi oj dukca fuh bosru fuf mir ba tas tul bi hubvud togogpom jiwuwjik popjo su pakril esite."
+  },
+  "apiKey": "38e3f1234886a130f3ab1f26d81f22bf3fd5b29e419e107da913505312dacc95",
+  "currency": {
+    "code": "CLP",
+    "name": "Chile Peso"
+  }
+}
