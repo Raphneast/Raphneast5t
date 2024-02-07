@@ -1,0 +1,26 @@
+{
+  "name": "Marc Griffin",
+  "age": 20,
+  "address": {
+    "street": "Ticun Highway",
+    "city": "Fiketnut",
+    "state": "MI",
+    "zip": "87489"
+  },
+  "contact": {
+    "phone": "(755) 401-5613",
+    "servicePhone": "800747239"
+  },
+  "birthday": "1970-02-16T03:37:14.806Z",
+  "ip": "111.252.65.226",
+  "foo": "bar",
+  "profile": {
+    "about": "Zu pozsodnel bes sidice pal olsa ro apumul wulik usasa sahat kekil heom sofetdil vishegwo er laso nog. Sibija dofaw ofurit galab ma turuba hek ni genubaj buvlan lanaf ifo nelungu otulbi ejlo zesrokih ihecehtes avuefi. Aze zeus rodu rahpoawi ihde get bicge hajcauh danwenduk copoiri ircu akpu wilojakif loanos. Jekawi ed gugpagik ofo enori wutego pa dactop diwrunca mucizi toobi hocur.",
+    "bio": "Tevze povsa hobettak uwuseoru racotle ji ogefu vuej ji edro miwjam ki ze kuvzor. Zuvos kil va nopre bunuj ez ispuse do metwohi iku hap ozafum. Zik kopu ra bic buri vaukuku zot sagan luram minkeki fozli jubokwi mafudzo mole ma. Zope motsetcof doso se ah miheze zaverfa tudeg nuvpawu hahordec povvove omareeg epuekro bezid eluavaju be. Imenu daepufe ledtidjih vebob nam ritatoz bud doalo it jo fikso zacaniwe gawru jagkon emga ih."
+  },
+  "apiKey": "1cc14c1bc7e1aeec619da4264caa909d47cb303cb2db6de33cf320a6106690c9",
+  "currency": {
+    "code": "BBD",
+    "name": "Barbados Dollar"
+  }
+}
