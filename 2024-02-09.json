@@ -1,0 +1,26 @@
+{
+  "name": "Larry Massey",
+  "age": 37,
+  "address": {
+    "street": "Zame Court",
+    "city": "Ajiekle",
+    "state": "WI",
+    "zip": "06584"
+  },
+  "contact": {
+    "phone": "(937) 638-1956",
+    "servicePhone": "800279444"
+  },
+  "birthday": "1982-02-03T23:55:16.274Z",
+  "ip": "36.192.129.76",
+  "foo": "bar",
+  "profile": {
+    "about": "Deceus wud liebebum tudezi kebkaven mo afomuvac one aha evijad pijgias dat obe lisgez kancesco eluhewin. Lihvarke uw odga da kopa sezonovi hori ipububfib jumkuh dinob fojgo pib locri fu sas. Le tevam pi tud ubpe ebu fe zoluk ozdogep mawat tiloctuv ugohe it gegnow napoza.",
+    "bio": "Mec doho wefridti of le tiju akupier pu jorzaheh iw afularku idsuk zu meswem mewekrur lejar homo. Manrag obcip cecas siltutin vivelvan kapletful to zahome mijkiuke cihucgew ajuow geuwa nuhizo tudli aheuf sacekwon. Jid waw no iteazale mizolo hozose madop duk lobjojvon wi nazo jek nimlefni ek. Avo uzoaneca ibe jarte rifcu readlo polomgeb fu ke capu wabov co dek maapasuv onu moazmi."
+  },
+  "apiKey": "8af805a9a21214bd08060c7c05ac5cf61f395481a39c2cc23c52e027d57864ff",
+  "currency": {
+    "code": "TWD",
+    "name": "Taiwan New Dollar"
+  }
+}
