@@ -1,0 +1,26 @@
+{
+  "name": "Agnes West",
+  "age": 42,
+  "address": {
+    "street": "Wokjo Street",
+    "city": "Faskasa",
+    "state": "ME",
+    "zip": "60460"
+  },
+  "contact": {
+    "phone": "(455) 664-4189",
+    "servicePhone": "800193466"
+  },
+  "birthday": "1984-06-25T02:25:24.229Z",
+  "ip": "199.239.244.44",
+  "foo": "bar",
+  "profile": {
+    "about": "Iz huerta kozsi simkegaz gerud zeb zu koup isev oknic ek du. Iwsemi ujuzawut miiki fusihhi far gimfi ehlektu mattamozi ala vaupfe mesajraj fe ti mocjenzok am megim azibel vawhoj. Poja newob foges ziulute zam du sefid bu vugelov subirvo tamitles winu nic bagvuzgem vujecev johusik. Ivo felurku tid izrudwil uwovahfi up funikco ekwuhhe juofwob sid ucala nutarod cusuriga urmoji jo. Baj kiju anko cob rofavmu timitdif pacdej cacir zegkik vocceh junok namafzas mo suohome. Zaz rape mo mikojsuw unuef hoan ojre cudezgu faroco ucomabek epwu egsovma gik ke polhawip hudbel lehad dob.",
+    "bio": "Masondad biwi ece ded oko behbi bechun kawiho fedakezu wocdah finzoip ja dug juwwelhah vavzup zad disokfud. Pahorkiz ke mec ihji elnafbeb nedibec ki wugutiza susmuf sevci ivukojed hijilba aw nomah mu bu upejre. Bij nablo ibizug gukadsu na iwcisak jivozzo nivot imaapsu cogidze sagje vat nif mo jalbi vec wejnejo."
+  },
+  "apiKey": "a01355f4bd31f808f20a94c71c50b4c9fdc52ecd88ddf07926426690ca24466f",
+  "currency": {
+    "code": "MWK",
+    "name": "Malawi Kwacha"
+  }
+}
