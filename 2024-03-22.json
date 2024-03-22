@@ -1,0 +1,26 @@
+{
+  "name": "Dustin Gardner",
+  "age": 59,
+  "address": {
+    "street": "Zinebe Lane",
+    "city": "Welofer",
+    "state": "HI",
+    "zip": "00601"
+  },
+  "contact": {
+    "phone": "(532) 430-9901",
+    "servicePhone": "800168223"
+  },
+  "birthday": "2002-07-27T13:40:27.511Z",
+  "ip": "128.163.214.224",
+  "foo": "bar",
+  "profile": {
+    "about": "Ocu bom ego utbig hu ga wugzuru gicakivo fihit sahwedba we vize. Joicvos pi sahoziij apgeh lisnaj sepabaf gozhe noekzu roeb padpikfav vipu kuga hijabrij ropefi. Rodetin hewe pivupdu ivi nul hup lijadzec cin tadkozab pamah pojim tigibug ajufune utabi amo. Nasol zos zazru narup epuhas izaig fulivted dan sasicola zadriv nuwowup la puhmik duhavoaje basbe.",
+    "bio": "Ses som vemures cicic roecina gimuttoz co ereruku porvofuz fopkezil ubkirta mevjib foz zibpoh dena. Ite nagoje oboze uddijem sutburu god nodo zup ro pehe si walirec. Zi gowzoboko kimed jilbikti ipuho reuminu wotoluw za arte tedihub jagecohe rarujla me jujhanu edilafa. Nono ne zegriz ko jinafoh niuwo kajselah wohzagsum wijcohwal gi bat ge te kewahmeh gisi bidok dogimsa lejtudote. Azhobe olesu ti acu jibzomuti rucenriv woliku duudu hune jo cam ijo se en bur duw ojhu ho."
+  },
+  "apiKey": "2443ff6fd5b4e0137e2d82f1fdd53c2bd83d6ccc7b60a45fda1293cd529751f1",
+  "currency": {
+    "code": "UAH",
+    "name": "Ukraine Hryvnia"
+  }
+}
