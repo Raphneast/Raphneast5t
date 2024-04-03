@@ -1,0 +1,26 @@
+{
+  "name": "Jack Brock",
+  "age": 23,
+  "address": {
+    "street": "Cuhud Loop",
+    "city": "Cudohaj",
+    "state": "VT",
+    "zip": "27259"
+  },
+  "contact": {
+    "phone": "(648) 725-6057",
+    "servicePhone": "800638118"
+  },
+  "birthday": "1979-09-05T00:05:29.193Z",
+  "ip": "45.11.232.94",
+  "foo": "bar",
+  "profile": {
+    "about": "Im onoti het agepiige peseko je apeleslar upe tiadaza zalevakik vol mohbalpag moehi ped. Megam wikorlil bobladu neiri sotrifa ta kum woso negrin nejvi uhubav cut jihacu okiuluv. Da ru sudlede ped mewde obi bo vebusati zebfe diwikiwi hazahve abuketeto.",
+    "bio": "Luekuhoj nus sumolola nob mazudawek zusot no cob okga la gaducug baizo. Toh poz movizhu unu afi sar pijjuhen rizel gumdidra wezwunzam ki micufo lefapij wovegafu ed. Ti ok lutefiz jomi ujwebi ap ral va mezizku fem ibim gih canin zurgisew. Taham agucurwe iju gi dej zuc uji re sintafej rab dod urcunda."
+  },
+  "apiKey": "ffdebf1d7d3a238d5bf56cbc8895f8f8d66d7c039da0cb1f18d0a1a7576b9ffb",
+  "currency": {
+    "code": "KWD",
+    "name": "Kuwait Dinar"
+  }
+}
