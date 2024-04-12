@@ -1,0 +1,26 @@
+{
+  "name": "Cody Sherman",
+  "age": 58,
+  "address": {
+    "street": "Wasbo Loop",
+    "city": "Tebjipo",
+    "state": "MI",
+    "zip": "37554"
+  },
+  "contact": {
+    "phone": "(338) 530-9872",
+    "servicePhone": "800219327"
+  },
+  "birthday": "1981-12-20T10:29:46.455Z",
+  "ip": "220.48.112.126",
+  "foo": "bar",
+  "profile": {
+    "about": "Dunu ve ba hufvutam bobihcu wu go sa zefocdi war ihugahjaj bawuzteb gajzetur biwwo ew. Naosema dugoir nopekvog ahwi piz woobijo kibkak nik gavic umezog hazba soav rew. Bouceni we egapa tevepwo ilajza olhut jez ajavu duv gone lehifnek ammo lav wu.",
+    "bio": "Nar sigidit vovu ocvizop vafi fo dusho jacfe ite zabzije juh zohvah bapujo wel godes ow nubave. Fom ucpoco ewjico fug hin ripnuzzaf fik kozma ufizo zik juj di jatoze ofi irlonrut ig. Cah nuc dosobmow awoumuvo wezez eharula wu tipluv ohrojas icojsim ja gegib fag um."
+  },
+  "apiKey": "e5f3a2df2df1fa6072ef0867a52a97c152cc164a97f154c5cbd90af7b41d0e1f",
+  "currency": {
+    "code": "CUC",
+    "name": "Cuba Convertible Peso"
+  }
+}
